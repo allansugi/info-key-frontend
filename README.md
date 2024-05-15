@@ -1,7 +1,7 @@
 # info-key-frontend
 frontend of password manager
 
-checkout the backend-server at [https://github.com/allansugi/info-key](https://github.com/allansugi/info-key)
+checkout the backend server [here](https://github.com/allansugi/info-key)
 
 ## Instructions
 to change port, edit `vite-project/vite.config.ts`
