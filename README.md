@@ -18,7 +18,7 @@ export default defineConfig({
 })
 ```
 
-to run the frontend
+to run the frontend, change directory to `vite-project` then run
 ```bash
 npm run dev
 ```
